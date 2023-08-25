@@ -1,3 +1,12 @@
+# Mark to add to script
+1. install docker compose
+```shell
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+   ```
+2. install portainer
+```shell
+```
 # docker/docker-install
 Home of the script that lives at `get.docker.com` and `test.docker.com`!
 
